@@ -1,0 +1,21 @@
+{
+  "name": "r-markdown.list",
+  "version": "0.0.0",
+  "description": "Convert a vector into an ordered or unordered list in markdown.",
+  "main": "index.r",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tlevine/r-markdown.list.git"
+  },
+  "keywords": [
+    "nprm"
+  ],
+  "author": "Thomas Levine <_@thomaslevine.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/tlevine/r-markdown.list/issues"
+  }
+}
